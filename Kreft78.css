@@ -1,0 +1,21 @@
+body { margin: 0px;
+    border: 0px;
+    padding: 0px; }
+    div
+{
+background-color: antiquewhite;
+border: 5px ;
+color: red;
+font-size:  42px;
+height: 900px;
+width:  150px;
+margin-left: auto;
+margin-right: auto;
+text-align: right; background-color: #800000;
+}
+#a{
+    background-repeat: repeat;
+    background-size: 100px;
+    background-position: center;
+    background-attachment: fixed;
+}

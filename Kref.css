@@ -1,0 +1,11 @@
+table,th,tr,td{
+    background-color:red;
+
+}
+body {
+    background-image: url(https://ecsmedia.pl/c/obraz-na-plotnie-gdansk-50x70-cm-b-iext79386452.jpg);
+    background-repeat: repeat;
+    background-size: 100px;
+    background-position: center;
+    background-attachment: fixed;
+}
